@@ -33,7 +33,7 @@ I’m currently building two independent products, with different audiences and 
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/wondxpt/ResuMetrics">ResuMetrics</a></h3>
-      <p><a href="https://github.com/wondxpt/ResuMetrics/actions/workflows/ci.yml"><img alt="ResuMetrics build status: passing" src="https://github.com/wondxpt/ResuMetrics/actions/workflows/ci.yml/badge.svg?branch=main" /></a></p>
+      <p><a href="https://github.com/wondxpt/ResuMetrics/actions/workflows/ci.yml"><img alt="ResuMetrics CI build status" src="https://github.com/wondxpt/ResuMetrics/actions/workflows/ci.yml/badge.svg?branch=main" /></a></p>
       <p><strong>Resume and CV builder</strong></p>
       <p>A React-based editor for structuring professional experience, choosing from multiple layouts, previewing a resume, and exporting a print-ready PDF. It also includes resume quality helpers, writing utilities, and localization support.</p>
       <p><sub>React · Vite · Zustand · Capacitor · Android Print Framework</sub></p>
