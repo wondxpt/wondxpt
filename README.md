@@ -26,10 +26,11 @@ I’m currently building two independent products, with different audiences and 
     <td width="50%" valign="top">
       <h3><a href="https://github.com/wondxpt/Xperslot-Showcase">Xperslot</a></h3>
       <p><strong>Primary product · Booking & business-operations SaaS</strong></p>
+      <p><strong>Release status:</strong> Currently being finalized for public release — coming soon.</p>
       <p>A multi-tenant scheduling platform being developed around separate Business and Customer experiences. The product scope brings appointment workflows, business calendars, client relationships, messaging, and calendar integrations into one connected system.</p>
       <p><sub>React · TypeScript · Node.js · Supabase · PostgreSQL · OAuth · Android</sub></p>
       <p><a href="https://github.com/wondxpt/Xperslot-Showcase">Explore the product overview and conceptual architecture →</a></p>
-      <p><sub>The application source is private; the public overview does not expose proprietary code.</sub></p>
+      <p><sub>Application source is maintained privately. Public release preparation is underway.</sub></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/wondxpt/ResuMetrics">ResuMetrics</a></h3>
