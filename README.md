@@ -1,16 +1,73 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wondxpt/wondxpt/main/profile-banner.svg" width="100%" alt="Abbas Shiri — Building useful software, from idea to production." />
+</p>
 
-<!--
-**wondxpt/wondxpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Full-stack developer · Web & mobile · SaaS</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  I build practical products with thoughtful UX, reliable APIs, and maintainable architecture.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/wondxpt/ResuMetrics"><img alt="Featured project: ResuMetrics" src="https://img.shields.io/badge/Featured%20Project-ResuMetrics-5A55E0?style=for-the-badge" /></a>
+  <img alt="React" src="https://img.shields.io/badge/React-149eca?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
+
+## About
+
+My work focuses on turning product ideas into useful, end-to-end experiences — from the interface and API to data workflows and cross-platform delivery. I care about clear interactions, secure integration boundaries, localization, and validating that features work beyond the happy-path demo.
+
+Currently, I’m building across two product areas: a multi-tenant booking and scheduling platform, and a resume/CV creator focused on polished layouts and dependable PDF export.
+
+## Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/wondxpt/ResuMetrics">ResuMetrics</a></h3>
+      <p><strong>Resume and CV builder</strong></p>
+      <p>A React-based editor for organizing professional experience, choosing from multiple resume layouts, reviewing the result, and exporting a print-ready PDF. Includes resume quality helpers, text polishing, and localization support.</p>
+      <p><sub>React · Vite · Zustand · Capacitor · Android Print Framework</sub></p>
+      <p><a href="https://github.com/wondxpt/ResuMetrics">Explore the source →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://reservioapp.duckdns.org">Reservio</a></h3>
+      <p><strong>Booking and business-management SaaS</strong></p>
+      <p>A multi-tenant scheduling product built around customer and business workflows, including appointments, client management, messaging, and calendar integrations.</p>
+      <p><sub>React · TypeScript · Node.js · Supabase · OAuth · Android</sub></p>
+      <p><a href="https://reservioapp.duckdns.org">Open the product →</a></p>
+      <p><sub>Source code is currently private.</sub></p>
+    </td>
+  </tr>
+</table>
+
+## Technology toolkit
+
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222" />
+  <img alt="React" src="https://img.shields.io/badge/React-149eca?style=flat-square&logo=react&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=1A1A1A" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Capacitor" src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" />
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=1A1A1A" />
+</p>
+
+**Engineering interests:** SaaS architecture · API and database design · Authentication and OAuth · Cross-platform apps · Localization and RTL interfaces · Product UX · End-to-end testing
+
+## How I approach product work
+
+- **Build complete workflows.** Connect UI, API, persistence, and error handling instead of stopping at static screens.
+- **Keep integrations narrow.** Use explicit permissions, bounded access, and clear ownership boundaries.
+- **Validate the result.** Prefer repeatable tests and observable outcomes over unsupported completion claims.
+
+## Explore more
+
+- [Repositories](https://github.com/wondxpt?tab=repositories) — source, experiments, and project work
+- [ResuMetrics issues](https://github.com/wondxpt/ResuMetrics/issues) — bug reports and focused improvement ideas
+
+<p align="center"><sub>Building useful software, one thoughtful iteration at a time.</sub></p>
