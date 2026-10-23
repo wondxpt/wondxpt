@@ -17,7 +17,7 @@
 
 I build and improve web and mobile products across the full stack: user interfaces, APIs, database-backed workflows, authentication, integrations, and automated validation. I care about clear user journeys, tenant-aware access control, useful error states, localization, and verifying that features work beyond static demos.
 
-My current portfolio includes two separate products:
+I’m currently building two independent products, with different audiences and purposes:
 
 ## Selected projects
 
@@ -33,6 +33,7 @@ My current portfolio includes two separate products:
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/wondxpt/ResuMetrics">ResuMetrics</a></h3>
+      <p><a href="https://github.com/wondxpt/ResuMetrics/actions/workflows/ci.yml"><img alt="ResuMetrics build status: passing" src="https://github.com/wondxpt/ResuMetrics/actions/workflows/ci.yml/badge.svg?branch=main" /></a></p>
       <p><strong>Resume and CV builder</strong></p>
       <p>A React-based editor for structuring professional experience, choosing from multiple layouts, previewing a resume, and exporting a print-ready PDF. It also includes resume quality helpers, writing utilities, and localization support.</p>
       <p><sub>React · Vite · Zustand · Capacitor · Android Print Framework</sub></p>
