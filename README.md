@@ -1,47 +1,57 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wondxpt/wondxpt/main/profile-banner.svg" width="100%" alt="Abbas Shiri — Building useful software, from idea to production." />
+  <img src="https://raw.githubusercontent.com/wondxpt/wondxpt/main/profile-banner.svg" width="100%" alt="Abbas Shiri — Building useful software from idea to production." />
 </p>
 
 <h2 align="center">Full-stack developer · SaaS · Web & mobile</h2>
 
-<p align="center">
-  I turn product ideas into end-to-end software—with thoughtful UX, reliable APIs, and maintainable architecture.
-</p>
+<p align="center">I build practical software products end to end: responsive interfaces, API-connected workflows, data-backed features, authentication, and mobile delivery.</p>
 
 <p align="center">
-  <a href="https://github.com/wondxpt/Xperslot-Showcase"><img alt="Primary project: Xperslot" src="https://img.shields.io/badge/Primary%20Project-Xperslot-0F766E?style=for-the-badge" /></a>
-  <a href="https://github.com/wondxpt/ResuMetrics"><img alt="Second project: ResuMetrics" src="https://img.shields.io/badge/Second%20Project-ResuMetrics-5A55E0?style=for-the-badge" /></a>
+  <a href="https://github.com/wondxpt/Xperslot-Showcase"><img alt="Primary product: XperSlot" src="https://img.shields.io/badge/Primary%20Product-XperSlot-0F766E?style=for-the-badge" /></a>
+  <a href="https://github.com/wondxpt/ResuMetrics"><img alt="Product: ResuMetrics" src="https://img.shields.io/badge/Product-ResuMetrics-5A55E0?style=for-the-badge" /></a>
 </p>
 
 ## About
 
-I build and improve web and mobile products across the full stack: user interfaces, APIs, database-backed workflows, authentication, integrations, and automated validation. I care about clear user journeys, tenant-aware access control, useful error states, localization, and verifying that features work beyond static demos.
+I work across frontend and backend boundaries, with an emphasis on complete user journeys rather than isolated screens. My focus includes product UX, API integration, authentication, database-backed workflows, localization, maintainable architecture, and evidence-based testing.
 
-I’m currently building two independent products, with different audiences and purposes:
+I am currently developing two independent products for different audiences.
 
-## Selected projects
+## Selected products
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/wondxpt/Xperslot-Showcase">Xperslot</a></h3>
-      <p><strong>Primary product · Booking & business-operations SaaS</strong></p>
-      <p><strong>Release status:</strong> Currently being finalized for public release — coming soon.</p>
-      <p>A multi-tenant scheduling platform being developed around separate Business and Customer experiences. The product scope brings appointment workflows, business calendars, client relationships, messaging, and calendar integrations into one connected system.</p>
-      <p><sub>React · TypeScript · Node.js · Supabase · PostgreSQL · OAuth · Android</sub></p>
-      <p><a href="https://github.com/wondxpt/Xperslot-Showcase">Explore the product overview and conceptual architecture →</a></p>
-      <p><sub>Application source is maintained privately. Public release preparation is underway.</sub></p>
+      <h3><a href="https://github.com/wondxpt/Xperslot-Showcase">XperSlot</a></h3>
+      <p><strong>Primary product · Service booking and business operations SaaS</strong></p>
+      <p>XperSlot is organised as two dedicated apps:</p>
+      <ul>
+        <li><strong>Customer:</strong> discover providers, compare services, make appointments, and manage bookings.</li>
+        <li><strong>Business:</strong> manage services, availability, calendars, teams, clients, and customer communication.</li>
+      </ul>
+      <p><sub>React · TypeScript · Node.js · Supabase · PostgreSQL · Android</sub></p>
+      <p><a href="https://github.com/wondxpt/Xperslot-Showcase">Product overview and conceptual architecture</a></p>
+      <p><a href="https://github.com/wondxpt/XperSlot-Downloads">Official Android app and release status</a></p>
+      <p><sub>The current product direction is the separate Customer and Business apps. Public APK distribution will be announced after the exact release binaries and upgrade path are verified.</sub></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/wondxpt/ResuMetrics">ResuMetrics</a></h3>
-      <p><a href="https://github.com/wondxpt/ResuMetrics/actions/workflows/ci.yml"><img alt="ResuMetrics CI build status" src="https://github.com/wondxpt/ResuMetrics/actions/workflows/ci.yml/badge.svg?branch=main" /></a></p>
-      <p><strong>Resume and CV builder</strong></p>
-      <p>A React-based editor for structuring professional experience, choosing from multiple layouts, previewing a resume, and exporting a print-ready PDF. It also includes resume quality helpers, writing utilities, and localization support.</p>
+      <p><a href="https://github.com/wondxpt/ResuMetrics/actions/workflows/ci.yml"><img alt="ResuMetrics CI status" src="https://github.com/wondxpt/ResuMetrics/actions/workflows/ci.yml/badge.svg?branch=main" /></a></p>
+      <p><strong>Resume and CV builder · Web and Android</strong></p>
+      <p>A resume editor with multiple layouts, live preview, resume-quality helpers, localization, right-to-left support, and PDF output.</p>
       <p><sub>React · Vite · Zustand · Capacitor · Android Print Framework</sub></p>
-      <p><a href="https://github.com/wondxpt/ResuMetrics">Explore the source code →</a></p>
+      <p><a href="https://github.com/wondxpt/ResuMetrics">Source code, implementation notes, and testing guidance</a></p>
+      <p><a href="https://github.com/wondxpt/ResuMetrics/releases/tag/v1.0.1-beta">Android beta release notes</a></p>
     </td>
   </tr>
 </table>
+
+## Engineering focus
+
+- **End-to-end product delivery:** connect UI, API, persistence, permissions, and failure states into coherent workflows.
+- **Reliable data flows:** pay attention to tenant boundaries, authentication, booking state, and data consistency.
+- **Web and mobile UX:** build responsive interfaces and account for localization and right-to-left layouts.
+- **Practical validation:** use automated tests, CI, build checks, and device smoke tests while distinguishing verified behavior from work still in progress.
 
 ## Technology
 
@@ -57,17 +67,17 @@ I’m currently building two independent products, with different audiences and 
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=1A1A1A" />
 </p>
 
-**Areas of focus:** multi-tenant SaaS · API and database design · Authentication and OAuth · Web and mobile delivery · Localization and RTL · Messaging workflows · End-to-end testing
+**Areas of work:** React and TypeScript · Node.js APIs · SaaS workflows · PostgreSQL and Supabase · Authentication · Android delivery · PDF generation · Localization and RTL · Automated testing
 
-## Engineering approach
+## Collaboration
 
-- **End-to-end ownership:** connect interface, API, persistence, permissions, and failure states into complete user journeys.
-- **Correctness before decoration:** prioritize reliable scheduling, tenant boundaries, and data integrity alongside product design.
-- **Evidence-driven delivery:** use repeatable tests and observed outcomes; distinguish completed work from items still under validation.
+I am open to relevant remote, project-based work and product collaborations involving frontend development, React/TypeScript applications, API integration, dashboards, and practical full-stack features.
+
+For project discussions, please include the problem, preferred stack, expected deliverables, and target timeline.
 
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/abbas-shiri-453690248/)
 - [GitHub repositories](https://github.com/wondxpt?tab=repositories)
 
-<p align="center"><sub>Building useful software, one thoughtful iteration at a time.</sub></p>
+<p align="center"><sub>Building useful software, one verified iteration at a time.</sub></p>
