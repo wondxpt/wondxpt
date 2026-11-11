@@ -32,7 +32,8 @@
       <p>
         <a href="https://github.com/wondxpt/Xperslot-Showcase">Product overview</a> ·
         <a href="https://github.com/wondxpt/XperSlot-Downloads">Android release hub</a> ·
-        <a href="https://github.com/wondxpt/XperSlot-Downloads/blob/main/RELEASE_STATUS.md">Release verification status</a>
+        <a href="https://github.com/wondxpt/XperSlot-Downloads/blob/main/RELEASE_STATUS.md">Release verification status</a> ·
+        <a href="https://github.com/wondxpt/XperSlot-Downloads/blob/main/SHA256SUMS.txt">APK checksums</a>
       </p>
       <p><sub>Application source is private. Public APK availability is reported only after the actual release assets are verified.</sub></p>
     </td>
